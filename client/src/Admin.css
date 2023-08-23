@@ -1,0 +1,23 @@
+#main_section {
+  margin-left: 11rem;
+  margin-bottom: 4.5rem;
+  padding: 5rem 2.5rem 0.5rem;
+}
+.songs .card {
+  width: 15rem;
+  margin: 10px;
+  overflow: hidden;
+}
+.songs img {
+  width: 15rem;
+  object-fit: cover;
+}
+.auth hr {
+  margin-top: 0rem;
+}
+
+@media screen and (max-width: 600px) {
+  #main_section {
+    margin-left: 5rem;
+  }
+}

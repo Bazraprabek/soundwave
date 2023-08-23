@@ -1,0 +1,288 @@
+.topnavbar {
+  width: 100vw;
+  height: 4rem;
+  background-color: rgba(1, 1, 1, 0.5);
+  position: fixed;
+  z-index: 3;
+  padding-right: 50px;
+}
+.sidebar {
+  background-color: black;
+  flex-direction: column;
+  width: 11.5rem;
+  min-height: 100vh;
+  position: fixed;
+  justify-content: start;
+  z-index: 4;
+  transition: 0.2s ease-in-out;
+}
+#main {
+  text-align: center;
+  margin-left: 11.5rem;
+  margin-bottom: 4.5rem;
+  padding: 5rem 0.5rem 0.5rem;
+}
+.nav-item {
+  padding: 5px 0px;
+}
+.sidebar a {
+  color: white;
+  border-radius: 10px;
+}
+.sidebar .active {
+  background-color: white;
+  color: black;
+}
+.sidebar a:not(.active):hover {
+  color: rgb(222, 209, 209);
+}
+.sidebar .nav {
+  display: inline;
+}
+.sidebar h4 {
+  font-size: 1.5rem;
+}
+
+/* Card */
+.card {
+  background-color: #191919;
+  box-shadow: 1px 1px 5px black;
+  width: 12rem;
+  transition: 0.3s ease-in-out;
+}
+.card img {
+  height: 10rem;
+  object-fit: cover;
+}
+.card .play {
+  position: absolute;
+  display: none;
+  top: 7.6rem;
+  right: 1rem;
+  border-radius: 50px;
+  animation: show 0.4s;
+  background-color: #1ed760;
+  padding: 10px 15px;
+  border: none;
+  z-index: 2;
+}
+.card:hover {
+  background-color: #272525;
+  display: block;
+  cursor: pointer;
+}
+.card:hover .play {
+  display: block;
+  cursor: default;
+}
+.card:hover .play:hover {
+  background-color: #2ee46e;
+  transform: scale(1.05, 1.05);
+}
+
+@keyframes show {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* Auth */
+#auth .box {
+  margin: auto;
+  text-align: left;
+  width: 50vw;
+}
+#auth a {
+  color: goldenrod;
+  text-decoration: underline;
+}
+#auth button {
+  background-color: #1ed760;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+  padding: 15px 30px;
+}
+#auth .abtn {
+  font-weight: 500;
+  border: 1px gray solid;
+  text-decoration: none;
+  color: grey;
+  border-radius: 30px;
+  padding: 13px 30px;
+}
+#auth .abtn:hover {
+  border: 1px black solid;
+}
+#auth button:hover {
+  transform: scale(1.04, 1.04);
+}
+#auth input {
+  padding: 10px;
+  border-radius: 4px;
+  width: 100%;
+}
+#auth hr {
+  color: rgb(84, 84, 86);
+}
+
+/* Search */
+.search input {
+  border-radius: 20px;
+  border: none;
+  padding: 10px 15px;
+  width: 30rem;
+}
+
+/* Song */
+.player {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  z-index: 111;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.song_details {
+  flex-grow: 1;
+}
+/* .control {
+  display: inherit;
+}
+.range {
+  display: inherit;
+} */
+.skip_btn {
+  background-color: transparent;
+  color: white;
+  border: none;
+  padding: 10px;
+}
+.play_btn {
+  background-color: red;
+  padding: 10px 16px;
+  border-radius: 50px;
+  color: white;
+  border: 2px solid white;
+}
+.song_details {
+  display: flex;
+  align-items: center;
+}
+@keyframes cssmarquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.song_details img {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.timestamp {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.timestamp .range {
+  width: 45vw;
+  cursor: pointer;
+}
+.control {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+/* Songs */
+.song {
+  text-align: left;
+}
+.song .title_img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.song .details {
+  padding-left: 20px;
+}
+.song .actions {
+  display: flex;
+  align-items: center;
+  padding: 30px 10px;
+}
+.song .sbtn {
+  border-radius: 50px;
+  margin-right: 20px;
+  background-color: #1ed760;
+  padding: 13px 18px;
+  border: none;
+}
+.song .sbtn:hover {
+  transform: scale(1.05, 1.05);
+}
+.song .love {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+}
+.song .love:hover {
+  transform: scale(1.1, 1.1);
+}
+
+/* Responsive */
+
+@media screen and (max-width: 800px) {
+  #auth .box {
+    width: 65vw;
+  }
+  .timestamp {
+    display: none;
+  }
+  .search input {
+    width: 20rem;
+  }
+}
+@media screen and (max-width: 625px) {
+  #auth .box {
+    width: 80vw;
+  }
+  .search input {
+    width: 13rem;
+    height: 2.5rem;
+  }
+  .sidebar {
+    width: 5rem;
+    text-align: center;
+  }
+  #main {
+    text-align: center;
+    margin-left: 5rem;
+  }
+  .sidebar .icon {
+    display: none;
+  }
+  .play_btn {
+    background-color: red;
+    padding: 10px 16px;
+    border-radius: 50px;
+    color: white;
+    border: 2px solid white;
+  }
+  .song_details img {
+    width: 4rem;
+    height: 4rem;
+    object-fit: cover;
+  }
+}
