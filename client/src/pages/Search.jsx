@@ -21,12 +21,15 @@ function Search() {
   return (
     <>
       <div className="search pb-4">
-        <input
-          type="text"
-          name="search"
-          placeholder="Search..."
-          onChange={(e) => setSearch(e.target.value)}
-        />
+        <div className="form">
+          <i className="fa fa-search"></i>
+          <input
+            type="text"
+            className="form-control form-input"
+            placeholder="Search anything..."
+            onChange={(e) => setSearch(e.target.value)}
+          />
+        </div>
         <div className="d-flex flex-row flex-wrap justify-content-center mt-3">
           {loading ? (
             <>

@@ -1,0 +1,1471 @@
+[
+  {
+    "title": "Timi Nai Hau",
+    "artist": "Sabin Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 85
+  },
+  {
+    "title": "Aadhi Bato Hinda",
+    "artist": "Bipul Chettri",
+    "genre": "Indie",
+    "release_year": 2015,
+    "duration": 238,
+    "popularity": 82
+  },
+  {
+    "title": "Mayalu",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Ballad",
+    "release_year": 2012,
+    "duration": 312,
+    "popularity": 88
+  },
+  {
+    "title": "Raat Vari",
+    "artist": "Sudip Gurung",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Pirati Ko Dori",
+    "artist": "Narayan Gopal",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 225,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Mann Ta Mero Nepali Ho",
+    "artist": "Kiran Gajmer",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Kutu Ma Kutu",
+    "artist": "Rajan Raj Shiwakoti, Melina Rai",
+    "genre": "Film Soundtrack",
+    "duration": 315,
+    "popularity": 86
+  },
+  {
+    "title": "Nepali Ho",
+    "artist": "Gopal Yonjan",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Aakhai Ma Jhal Jhal",
+    "artist": "Deepak Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 85
+  },
+  {
+    "title": "Kunai Din Kunai Pal",
+    "artist": "Adrian Pradhan",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 285,
+    "popularity": 85
+  },
+  {
+    "title": "Dilko Bhittaima",
+    "artist": "Kali Prasad Baskota",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 80
+  },
+  {
+    "title": "Kanchi Matyang Tyang",
+    "artist": "Prem Dhoj Pradhan",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 220,
+    "popularity": 85
+  },
+  {
+    "title": "Sanu Maya",
+    "artist": "Narayan Gopal",
+    "genre": "Classic",
+    "duration": 300,
+    "popularity": 80
+  },
+  {
+    "title": "Suna Saili",
+    "artist": "Hemant Rana",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 315,
+    "popularity": 82
+  },
+  {
+    "title": "Chari Maryo",
+    "artist": "Swaroop Raj Acharya",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Resham Firiri",
+    "artist": "Prakash Shrestha",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Birsana Sakdina",
+    "artist": "Abhaya & The Steam Injuns",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Hataarindai, Bataasindai",
+    "artist": "Rohan Gurung",
+    "genre": "Indie",
+    "release_year": 2015,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Nachaheko Hoina Timilai",
+    "artist": "The Edge Band",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 315,
+    "popularity": 85
+  },
+  {
+    "title": "Resham",
+    "artist": "Aastha Band",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Eklo Yo Jeewan",
+    "artist": "Cobweb",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Mero Pyaro Okhaldhunga",
+    "artist": "Jagdish Samal",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 220,
+    "popularity": 80
+  },
+  {
+    "title": "Bato Modera Gayeu",
+    "artist": "Kumar Basnet",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 85
+  },
+  {
+    "title": "Dhalkyo Jawani",
+    "artist": "Mukti & Revival",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 255,
+    "popularity": 85
+  },
+  {
+    "title": "Eh Kancha",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Kutuma Kutu",
+    "artist": "Rajan Raj Shiwakoti, Melina Rai",
+    "genre": "Film Soundtrack",
+    "duration": 315,
+    "popularity": 84
+  },
+  {
+    "title": "Ma Aaja Samma",
+    "artist": "Albatross",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 275,
+    "popularity": 85
+  },
+  {
+    "title": "Kasari Bhanu",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Saili",
+    "artist": "Hemant Rana",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 315,
+    "popularity": 83
+  },
+  {
+    "title": "Muskurayera",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Kasto Maza",
+    "artist": "Robin Sharma",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 265,
+    "popularity": 80
+  },
+  {
+    "title": "Chari Gadhi",
+    "artist": "Rohit John Chhetri",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 220,
+    "popularity": 85
+  },
+  {
+    "title": "Sustari",
+    "artist": "Dibya Subba",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 265,
+    "popularity": 80
+  },
+  {
+    "title": "Resham Firiri Resham",
+    "artist": "Ram Thapa",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 265,
+    "popularity": 80
+  },
+  {
+    "title": "Nepali Ho Nepali",
+    "artist": "Deepak Kharel",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 220,
+    "popularity": 85
+  },
+  {
+    "title": "Hamro Nepal Ma",
+    "artist": "Suraj Singh Thakuri",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 225,
+    "popularity": 80
+  },
+  {
+    "title": "Jaba Jaba Timro Saath",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 300,
+    "popularity": 85
+  },
+  {
+    "title": "Baneko Cha Pahara",
+    "artist": "Sukmit Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Maya Namara",
+    "artist": "Prashant Tamang",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Ma Ta Nepal",
+    "artist": "Karan Raj Karki",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 85
+  },
+  {
+    "title": "Kati Baschhau Mann",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Phool Hoina",
+    "artist": "Sabin Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Pahilo Pahilo Maya",
+    "artist": "Kumar Basnet",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Dherai Dherai",
+    "artist": "Anju Panta, Rajesh Payal Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Hari Bol",
+    "artist": "Deepak Bajracharya",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 85
+  },
+  {
+    "title": "Suna Katha Euta Geet",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Duniya Beglai Chha",
+    "artist": "Deepak Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Resham Firiri Remix",
+    "artist": "Sugam Pokharel",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 250,
+    "popularity": 85
+  },
+  {
+    "title": "Parelima",
+    "artist": "1974 AD",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 315,
+    "popularity": 80
+  },
+  {
+    "title": "Timi Ma Bhanda",
+    "artist": "Khem Raj Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 300,
+    "popularity": 80
+  },
+  {
+    "title": "Mero Desh Mero Maya",
+    "artist": "Arjun Karki",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Parelima",
+    "artist": "Bimal Dangi",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Piratiko Mitho Tirsana",
+    "artist": "Bishnu Majhi",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Sundar Kanchi",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Hami Nepali",
+    "artist": "Deepak Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Purnima Ko Chandrama",
+    "artist": "Ram Krishna Dhakal",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Pahad Ma Basera",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 285,
+    "popularity": 80
+  },
+  {
+    "title": "Dharan Ko Bazar Ma",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 265,
+    "popularity": 85
+  },
+  {
+    "title": "Mero Pyaro Nepal",
+    "artist": "Manoj Raj",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Sathi",
+    "artist": "Sabin Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Lai Bari Lai",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Zindagani",
+    "artist": "Prakash Ojha",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 85
+  },
+  {
+    "title": "Pareli",
+    "artist": "Kamal Khatri",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 295,
+    "popularity": 80
+  },
+  {
+    "title": "Goreto",
+    "artist": "Ashok Darji",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Sanjha Parey Ma",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 85
+  },
+  {
+    "title": "Jati Maya Laye Pani",
+    "artist": "Nima Rumba",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Naulo Bihani",
+    "artist": "Adrian Pradhan",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Guras Fulda Ni",
+    "artist": "Deep Shrestha",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 85
+  },
+  {
+    "title": "Baneko Cha Pahara",
+    "artist": "Adrian Pradhan",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 300,
+    "popularity": 85
+  },
+  {
+    "title": "Panche Baja",
+    "artist": "Sanjeev Singh",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Maya Ma",
+    "artist": "Deepak Bajracharya",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Chanchale",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Resham",
+    "artist": "Mingma Sherpa",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Yehi Ho Ta Maya",
+    "artist": "Yama Buddha",
+    "genre": "Rap",
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Aawaran",
+    "artist": "Khem Raj Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 85
+  },
+  {
+    "title": "Udreko Choli",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Gairi Khet Ko Sirai Hanyo",
+    "artist": "Arjun Karki",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Junima",
+    "artist": "Shyam Nepali",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Banmara Chhaina",
+    "artist": "Naren Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Adhuro Prem",
+    "artist": "Albatross",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 300,
+    "popularity": 80
+  },
+  {
+    "title": "Dhalkyo Jawani",
+    "artist": "Mukti & Revival",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Ma Mare Pani",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Huncha Bhane Huncha",
+    "artist": "Cobweb",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Kalpana",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Pahilo Pahilo Maya",
+    "artist": "Kumar Basnet",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 80
+  },
+  {
+    "title": "Taal Ko Pani",
+    "artist": "Khem Raj Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 85
+  },
+  {
+    "title": "Yeti Dherai Maya",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Birsana Sakdina",
+    "artist": "Sanjay Shrestha",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Kasari Bhanu",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Rato Ra Chandra Surya",
+    "artist": "Nepathya",
+    "genre": "Folk Rock",
+    "duration": 315,
+    "popularity": 80
+  },
+  {
+    "title": "Mero Nepal",
+    "artist": "Karan Raj Karki",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Kati Baschhau Mann",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Jaba Jaba Timro Saath",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 300,
+    "popularity": 85
+  },
+  {
+    "title": "Baneko Cha Pahara",
+    "artist": "Sukmit Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Aash",
+    "artist": "Deepak Kharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 85
+  },
+  {
+    "title": "Resham Firiri",
+    "artist": "Nepathya",
+    "genre": "Folk Rock",
+    "duration": 315,
+    "popularity": 80
+  },
+  {
+    "title": "Nepali Ho",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Birsera Malai",
+    "artist": "Rabin Sharma",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 85
+  },
+  {
+    "title": "Manko Kura",
+    "artist": "Bacchu Kailash",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Mero Maya",
+    "artist": "The Axe",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Dil Yo Mero Dil",
+    "artist": "Kumar Sanu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Nirdosh",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Resham Firiri Resham",
+    "artist": "Ram Thapa",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 265,
+    "popularity": 85
+  },
+  {
+    "title": "Purba Paschim Rail",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Ma Phooli Kina",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Kafal Gedi Kutukai",
+    "artist": "Deepak Limbu",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Achanak Ke Ho",
+    "artist": "Rajesh Payal Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Priyasi",
+    "artist": "Deepak Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 80
+  },
+  {
+    "title": "Binti Chaheko Chaina",
+    "artist": "Yam Baral",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 85
+  },
+  {
+    "title": "Dil Bhitrai Chha",
+    "artist": "Mukti & Revival",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Man Ko Saathi",
+    "artist": "Arun Thapa",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 85
+  },
+  {
+    "title": "Ma Jasto Geet Gauchhu",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Aauna Bichodko Sansar Ma",
+    "artist": "Deepak Bajracharya",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Resham",
+    "artist": "Mingma Sherpa",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Nahuna Bhane",
+    "artist": "Girish Khatiwada",
+    "genre": "Rap",
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Kina Timro Maya",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 85
+  },
+  {
+    "title": "Mero Desh Mero Maya",
+    "artist": "Arjun Karki",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Parelima",
+    "artist": "Bimal Dangi",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Piratiko Mitho Tirsana",
+    "artist": "Bishnu Majhi",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Sundar Kanchi",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Hami Nepali",
+    "artist": "Deepak Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Purnima Ko Chandrama",
+    "artist": "Ram Krishna Dhakal",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Pahad Ma Basera",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 285,
+    "popularity": 80
+  },
+  {
+    "title": "Dharan Ko Bazar Ma",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 265,
+    "popularity": 85
+  },
+  {
+    "title": "Mero Pyaro Nepal",
+    "artist": "Manoj Raj",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Sathi",
+    "artist": "Sabin Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Lai Bari Lai",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Zindagani",
+    "artist": "Prakash Ojha",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 85
+  },
+  {
+    "title": "Pareli",
+    "artist": "Kamal Khatri",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 295,
+    "popularity": 80
+  },
+  {
+    "title": "Goreto",
+    "artist": "Ashok Darji",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Sanjha Parey Ma",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 85
+  },
+  {
+    "title": "Jati Maya Laye Pani",
+    "artist": "Nima Rumba",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Naulo Bihani",
+    "artist": "Adrian Pradhan",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Guras Fulda Ni",
+    "artist": "Deep Shrestha",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 85
+  },
+  {
+    "title": "Baneko Cha Pahara",
+    "artist": "Adrian Pradhan",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 300,
+    "popularity": 85
+  },
+  {
+    "title": "Panche Baja",
+    "artist": "Sanjeev Singh",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Maya Ma",
+    "artist": "Deepak Bajracharya",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Chanchale",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Resham",
+    "artist": "Mingma Sherpa",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Yehi Ho Ta Maya",
+    "artist": "Yama Buddha",
+    "genre": "Rap",
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Aawaran",
+    "artist": "Khem Raj Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 85
+  },
+  {
+    "title": "Udreko Choli",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Gairi Khet Ko Sirai Hanyo",
+    "artist": "Arjun Karki",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Junima",
+    "artist": "Shyam Nepali",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Banmara Chhaina",
+    "artist": "Naren Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Adhuro Prem",
+    "artist": "Albatross",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 300,
+    "popularity": 80
+  },
+  {
+    "title": "Dhalkyo Jawani",
+    "artist": "Mukti & Revival",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Ma Mare Pani",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Huncha Bhane Huncha",
+    "artist": "Cobweb",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Kalpana",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 80
+  },
+  {
+    "title": "Pahilo Pahilo Maya",
+    "artist": "Kumar Basnet",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 80
+  },
+  {
+    "title": "Taal Ko Pani",
+    "artist": "Khem Raj Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 85
+  },
+  {
+    "title": "Yeti Dherai Maya",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Birsana Sakdina",
+    "artist": "Sanjay Shrestha",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Kasari Bhanu",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Rato Ra Chandra Surya",
+    "artist": "Nepathya",
+    "genre": "Folk Rock",
+    "duration": 315,
+    "popularity": 80
+  },
+  {
+    "title": "Mero Nepal",
+    "artist": "Karan Raj Karki",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Kati Baschhau Mann",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Jaba Jaba Timro Saath",
+    "artist": "Sugam Pokharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 300,
+    "popularity": 85
+  },
+  {
+    "title": "Baneko Cha Pahara",
+    "artist": "Sukmit Gurung",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Aash",
+    "artist": "Deepak Kharel",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 85
+  },
+  {
+    "title": "Resham Firiri",
+    "artist": "Nepathya",
+    "genre": "Folk Rock",
+    "duration": 315,
+    "popularity": 80
+  },
+  {
+    "title": "Nepali Ho",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 260,
+    "popularity": 80
+  },
+  {
+    "title": "Birsera Malai",
+    "artist": "Rabin Sharma",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 85
+  },
+  {
+    "title": "Manko Kura",
+    "artist": "Bacchu Kailash",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Mero Maya",
+    "artist": "The Axe",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Dil Yo Mero Dil",
+    "artist": "Kumar Sanu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Nirdosh",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Resham Firiri Resham",
+    "artist": "Ram Thapa",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 265,
+    "popularity": 85
+  },
+  {
+    "title": "Purba Paschim Rail",
+    "artist": "Shiva Pariyar",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Ma Phooli Kina",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 85
+  },
+  {
+    "title": "Kafal Gedi Kutukai",
+    "artist": "Deepak Limbu",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 255,
+    "popularity": 80
+  },
+  {
+    "title": "Achanak Ke Ho",
+    "artist": "Rajesh Payal Rai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Priyasi",
+    "artist": "Deepak Limbu",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 80
+  },
+  {
+    "title": "Binti Chaheko Chaina",
+    "artist": "Yam Baral",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 255,
+    "popularity": 85
+  },
+  {
+    "title": "Dil Bhitrai Chha",
+    "artist": "Mukti & Revival",
+    "genre": "Rock",
+    "release_year": 2017,
+    "duration": 275,
+    "popularity": 80
+  },
+  {
+    "title": "Yo Man Ko Saathi",
+    "artist": "Arun Thapa",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 250,
+    "popularity": 85
+  },
+  {
+    "title": "Ma Jasto Geet Gauchhu",
+    "artist": "Raju Lama",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 280,
+    "popularity": 85
+  },
+  {
+    "title": "Aauna Bichodko Sansar Ma",
+    "artist": "Deepak Bajracharya",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 245,
+    "popularity": 80
+  },
+  {
+    "title": "Resham",
+    "artist": "Mingma Sherpa",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Nahuna Bhane",
+    "artist": "Girish Khatiwada",
+    "genre": "Rap",
+    "duration": 280,
+    "popularity": 80
+  },
+  {
+    "title": "Kina Timro Maya",
+    "artist": "Nabin K Bhattarai",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 240,
+    "popularity": 85
+  },
+  {
+    "title": "Mero Desh Mero Maya",
+    "artist": "Arjun Karki",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 290,
+    "popularity": 80
+  },
+  {
+    "title": "Parelima",
+    "artist": "Bimal Dangi",
+    "genre": "Pop",
+    "release_year": 2018,
+    "duration": 270,
+    "popularity": 85
+  },
+  {
+    "title": "Piratiko Mitho Tirsana",
+    "artist": "Bishnu Majhi",
+    "genre": "Folk",
+    "release_year": 2016,
+    "duration": 255,
+    "popularity": 80
+  }
+]

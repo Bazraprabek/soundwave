@@ -1,0 +1,1442 @@
+[
+    {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "duration": 270,
+        "popularity": 70,
+        "release_year": 2014,
+        "genre": "Pop"
+    },
+    {
+        "title": "Hello",
+        "artist": "Adele",
+        "duration": 295,
+        "popularity": 72,
+        "release_year": 2015,
+        "genre": "Pop"
+    },
+    {
+        "title": "Don't Start Now",
+        "artist": "Dua Lipa",
+        "duration": 183,
+        "popularity": 78,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "duration": 200,
+        "popularity": 79,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Closer",
+        "artist": "The Chainsmokers ft. Halsey",
+        "duration": 244,
+        "popularity": 78,
+        "release_year": 2016,
+        "genre": "Pop"
+    },
+    {
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "duration": 228,
+        "popularity": 71,
+        "release_year": 2010,
+        "genre": "Pop"
+    },
+    {
+        "title": "Old Town Road",
+        "artist": "Lil Nas X ft. Billy Ray Cyrus",
+        "duration": 157,
+        "popularity": 77,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "duration": 290,
+        "popularity": 79,
+        "release_year": 2011,
+        "genre": "Pop"
+    },
+    {
+        "title": "Despacito",
+        "artist": "Luis Fonsi ft. Daddy Yankee",
+        "duration": 229,
+        "popularity": 78,
+        "release_year": 2017,
+        "genre": "Pop"
+    },
+    {
+        "title": "All of Me",
+        "artist": "John Legend",
+        "duration": 269,
+        "popularity": 78,
+        "release_year": 2013,
+        "genre": "Pop"
+    },
+    {
+        "title": "Havana",
+        "artist": "Camila Cabello ft. Young Thug",
+        "duration": 217,
+        "popularity": 78,
+        "release_year": 2017,
+        "genre": "Pop"
+    },
+    {
+        "title": "Happy",
+        "artist": "Pharrell Williams",
+        "duration": 232,
+        "popularity": 78,
+        "release_year": 2013,
+        "genre": "Pop"
+    },
+    {
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "duration": 194,
+        "popularity": 79,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "artist": "Justin Timberlake",
+        "duration": 236,
+        "popularity": 78,
+        "release_year": 2016,
+        "genre": "Pop"
+    },
+    {
+        "title": "Senorita",
+        "artist": "Shawn Mendes & Camila Cabello",
+        "duration": 190,
+        "popularity": 78,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Love Yourself",
+        "artist": "Justin Bieber",
+        "duration": 233,
+        "popularity": 78,
+        "release_year": 2015,
+        "genre": "Pop"
+    },
+    {
+        "title": "Counting Stars",
+        "artist": "OneRepublic",
+        "duration": 257,
+        "popularity": 78,
+        "release_year": 2013,
+        "genre": "Pop"
+    },
+    {
+        "title": "Girls Just Want to Have Fun",
+        "artist": "Cyndi Lauper",
+        "duration": 233,
+        "popularity": 78,
+        "release_year": 1983,
+        "genre": "Pop"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 354,
+        "popularity": 79,
+        "release_year": 1975,
+        "genre": "Rock"
+    },
+    {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "duration": 391,
+        "popularity": 79,
+        "release_year": 1976,
+        "genre": "Rock"
+    },
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "duration": 481,
+        "popularity": 79,
+        "release_year": 1971,
+        "genre": "Rock"
+    },
+    {
+        "title": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "duration": 372,
+        "popularity": 78,
+        "release_year": 1965,
+        "genre": "Rock"
+    },
+    {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "duration": 183,
+        "popularity": 78,
+        "release_year": 1971,
+        "genre": "Rock"
+    },
+    {
+        "title": "Losing My Religion",
+        "artist": "R.E.M.",
+        "duration": 269,
+        "popularity": 78,
+        "release_year": 1991,
+        "genre": "Rock"
+    },
+    {
+        "title": "Sweet Child o' Mine",
+        "artist": "Guns N' Roses",
+        "duration": 355,
+        "popularity": 78,
+        "release_year": 1987,
+        "genre": "Rock"
+    },
+    {
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "duration": 125,
+        "popularity": 78,
+        "release_year": 1965,
+        "genre": "Rock"
+    },
+    {
+        "title": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "duration": 289,
+        "popularity": 78,
+        "release_year": 1975,
+        "genre": "Rock"
+    },
+    {
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "duration": 258,
+        "popularity": 78,
+        "release_year": 1995,
+        "genre": "Rock"
+    },
+    {
+        "title": "Black",
+        "artist": "Pearl Jam",
+        "duration": 336,
+        "popularity": 78,
+        "release_year": 1991,
+        "genre": "Rock"
+    },
+    {
+        "title": "Wish You Were Here",
+        "artist": "Pink Floyd",
+        "duration": 335,
+        "popularity": 78,
+        "release_year": 1975,
+        "genre": "Rock"
+    },
+    {
+        "title": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "duration": 259,
+        "popularity": 28,
+        "release_year": 1992,
+        "genre": "Rock"
+    },
+    {
+        "title": "Angie",
+        "artist": "The Rolling Stones",
+        "duration": 279,
+        "popularity": 28,
+        "release_year": 1973,
+        "genre": "Rock"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "duration": 250,
+        "popularity": 28,
+        "release_year": 1981,
+        "genre": "Rock"
+    },
+    {
+        "title": "Ziggy Stardust",
+        "artist": "David Bowie",
+        "duration": 180,
+        "popularity": 28,
+        "release_year": 1972,
+        "genre": "Rock"
+    },
+    {
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "duration": 243,
+        "popularity": 28,
+        "release_year": 1970,
+        "genre": "Rock"
+    },
+    {
+        "title": "Light My Fire",
+        "artist": "The Doors",
+        "duration": 419,
+        "popularity": 28,
+        "release_year": 1967,
+        "genre": "Rock"
+    },
+    {
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "duration": 243,
+        "popularity": 28,
+        "release_year": 1983,
+        "genre": "Rock"
+    },
+    {
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "duration": 312,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "God's Plan",
+        "artist": "Drake",
+        "duration": 198,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Savage Love",
+        "artist": "Jawsh 685 & Jason Derulo",
+        "duration": 171,
+        "popularity": 28,
+        "release_year": 2020,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Old Town Road",
+        "artist": "Lil Nas X ft. Billy Ray Cyrus",
+        "duration": 157,
+        "popularity": 28,
+        "release_year": 2019,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Rockstar",
+        "artist": "Post Malone ft. 21 Savage",
+        "duration": 218,
+        "popularity": 28,
+        "release_year": 2017,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Hotline Bling",
+        "artist": "Drake",
+        "duration": 267,
+        "popularity": 28,
+        "release_year": 2015,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Lucid Dreams",
+        "artist": "Juice WRLD",
+        "duration": 239,
+        "popularity": 28,
+        "release_year": 2017,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "WAP",
+        "artist": "Cardi B ft. Megan Thee Stallion",
+        "duration": 187,
+        "popularity": 28,
+        "release_year": 2020,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Life Is Good",
+        "artist": "Future ft. Drake",
+        "duration": 237,
+        "popularity": 28,
+        "release_year": 2020,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Bodak Yellow",
+        "artist": "Cardi B",
+        "duration": 204,
+        "popularity": 28,
+        "release_year": 2017,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Mood",
+        "artist": "24kGoldn ft. iann dior",
+        "duration": 140,
+        "popularity": 29,
+        "release_year": 2020,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "The Box",
+        "artist": "Roddy Ricch",
+        "duration": 196,
+        "popularity": 29,
+        "release_year": 2019,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Good 4 U",
+        "artist": "Olivia Rodrigo",
+        "duration": 178,
+        "popularity": 28,
+        "release_year": 2021,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "duration": 312,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Mask Off",
+        "artist": "Future",
+        "duration": 203,
+        "popularity": 28,
+        "release_year": 2017,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "duration": 312,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "duration": 312,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "duration": 312,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Sicko Mode",
+        "artist": "Travis Scott",
+        "duration": 312,
+        "popularity": 29,
+        "release_year": 2018,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Wagon Wheel",
+        "artist": "Old Crow Medicine Show",
+        "duration": 261,
+        "popularity": 28,
+        "release_year": 2004,
+        "genre": "Country"
+    },
+    {
+        "title": "Tennessee Whiskey",
+        "artist": "Chris Stapleton",
+        "duration": 293,
+        "popularity": 28,
+        "release_year": 2015,
+        "genre": "Country"
+    },
+    {
+        "title": "The Dance",
+        "artist": "Garth Brooks",
+        "duration": 214,
+        "popularity": 28,
+        "release_year": 1989,
+        "genre": "Country"
+    },
+    {
+        "title": "Jolene",
+        "artist": "Dolly Parton",
+        "duration": 160,
+        "popularity": 29,
+        "release_year": 1973,
+        "genre": "Country"
+    },
+    {
+        "title": "Friends in Low Places",
+        "artist": "Garth Brooks",
+        "duration": 267,
+        "popularity": 28,
+        "release_year": 1990,
+        "genre": "Country"
+    },
+    {
+        "title": "Die a Happy Man",
+        "artist": "Thomas Rhett",
+        "duration": 202,
+        "popularity": 28,
+        "release_year": 2015,
+        "genre": "Country"
+    },
+    {
+        "title": "Ring of Fire",
+        "artist": "Johnny Cash",
+        "duration": 157,
+        "popularity": 28,
+        "release_year": 1963,
+        "genre": "Country"
+    },
+    {
+        "title": "Blue Ain't Your Color",
+        "artist": "Keith Urban",
+        "duration": 231,
+        "popularity": 28,
+        "release_year": 2016,
+        "genre": "Country"
+    },
+    {
+        "title": "Take Me Home, Country Roads",
+        "artist": "John Denver",
+        "duration": 183,
+        "popularity": 28,
+        "release_year": 1971,
+        "genre": "Country"
+    },
+    {
+        "title": "Chicken Fried",
+        "artist": "Zac Brown Band",
+        "duration": 226,
+        "popularity": 28,
+        "release_year": 2008,
+        "genre": "Country"
+    },
+    {
+        "title": "Humble and Kind",
+        "artist": "Tim McGraw",
+        "duration": 239,
+        "popularity": 28,
+        "release_year": 2016,
+        "genre": "Country"
+    },
+    {
+        "title": "Before He Cheats",
+        "artist": "Carrie Underwood",
+        "duration": 207,
+        "popularity": 28,
+        "release_year": 2005,
+        "genre": "Country"
+    },
+    {
+        "title": "Folsom Prison Blues",
+        "artist": "Johnny Cash",
+        "duration": 148,
+        "popularity": 28,
+        "release_year": 1955,
+        "genre": "Country"
+    },
+    {
+        "title": "Live Like You Were Dying",
+        "artist": "Tim McGraw",
+        "duration": 265,
+        "popularity": 28,
+        "release_year": 2004,
+        "genre": "Country"
+    },
+    {
+        "title": "Cruise",
+        "artist": "Florida Georgia Line",
+        "duration": 190,
+        "popularity": 28,
+        "release_year": 2012,
+        "genre": "Country"
+    },
+    {
+        "title": "Always on My Mind",
+        "artist": "Willie Nelson",
+        "duration": 193,
+        "popularity": 28,
+        "release_year": 1982,
+        "genre": "Country"
+    },
+    {
+        "title": "I Hope You Dance",
+        "artist": "Lee Ann Womack",
+        "duration": 246,
+        "popularity": 28,
+        "release_year": 2000,
+        "genre": "Country"
+    },
+    {
+        "title": "Copperhead Road",
+        "artist": "Steve Earle",
+        "duration": 267,
+        "popularity": 28,
+        "release_year": 1988,
+        "genre": "Country"
+    },
+    {
+        "title": "Wanted",
+        "artist": "Hunter Hayes",
+        "duration": 272,
+        "popularity": 28,
+        "release_year": 2012,
+        "genre": "Country"
+    },
+    {
+        "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+        "artist": "Waylon Jennings & Willie Nelson",
+        "duration": 156,
+        "popularity": 28,
+        "release_year": 1978,
+        "genre": "Country"
+    },
+    {
+        "title": "Take Five",
+        "artist": "Dave Brubeck Quartet",
+        "duration": 324,
+        "popularity": 29,
+        "release_year": 1959,
+        "genre": "Jazz"
+    },
+    {
+        "title": "So What",
+        "artist": "Miles Davis",
+        "duration": 557,
+        "popularity": 28,
+        "release_year": 1959,
+        "genre": "Jazz"
+    },
+    {
+        "title": "My Favorite Things",
+        "artist": "John Coltrane",
+        "duration": 452,
+        "popularity": 28,
+        "release_year": 1961,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Round Midnight",
+        "artist": "Thelonious Monk",
+        "duration": 384,
+        "popularity": 28,
+        "release_year": 1947,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Autumn Leaves",
+        "artist": "Nat King Cole",
+        "duration": 180,
+        "popularity": 28,
+        "release_year": 1955,
+        "genre": "Jazz"
+    },
+    {
+        "title": "All Blues",
+        "artist": "Miles Davis",
+        "duration": 648,
+        "popularity": 28,
+        "release_year": 1959,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Birdland",
+        "artist": "Weather Report",
+        "duration": 354,
+        "popularity": 28,
+        "release_year": 1977,
+        "genre": "Jazz"
+    },
+    {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong",
+        "duration": 142,
+        "popularity": 28,
+        "release_year": 1967,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Blue Bossa",
+        "artist": "Joe Henderson",
+        "duration": 380,
+        "popularity": 28,
+        "release_year": 1963,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Cantaloupe Island",
+        "artist": "Herbie Hancock",
+        "duration": 328,
+        "popularity": 28,
+        "release_year": 1964,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Chameleon",
+        "artist": "Herbie Hancock",
+        "duration": 468,
+        "popularity": 28,
+        "release_year": 1973,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Fly Me to the Moon",
+        "artist": "Frank Sinatra",
+        "duration": 152,
+        "popularity": 29,
+        "release_year": 1964,
+        "genre": "Jazz"
+    },
+    {
+        "title": "What Is This Thing Called Love?",
+        "artist": "Ella Fitzgerald",
+        "duration": 182,
+        "popularity": 28,
+        "release_year": 1957,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Cry Me a River",
+        "artist": "Julie London",
+        "duration": 170,
+        "popularity": 28,
+        "release_year": 1955,
+        "genre": "Jazz"
+    },
+    {
+        "title": "A Night in Tunisia",
+        "artist": "Dizzy Gillespie",
+        "duration": 376,
+        "popularity": 28,
+        "release_year": 1946,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Summertime",
+        "artist": "Ella Fitzgerald & Louis Armstrong",
+        "duration": 276,
+        "popularity": 28,
+        "release_year": 1958,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Take the 'A' Train",
+        "artist": "Duke Ellington",
+        "duration": 235,
+        "popularity": 28,
+        "release_year": 1941,
+        "genre": "Jazz"
+    },
+    {
+        "title": "On Green Dolphin Street",
+        "artist": "Miles Davis",
+        "duration": 313,
+        "popularity": 28,
+        "release_year": 1958,
+        "genre": "Jazz"
+    },
+    {
+        "title": "My Funny Valentine",
+        "artist": "Chet Baker",
+        "duration": 300,
+        "popularity": 28,
+        "release_year": 1954,
+        "genre": "Jazz"
+    },
+    {
+        "title": "In a Sentimental Mood",
+        "artist": "Duke Ellington & John Coltrane",
+        "duration": 268,
+        "popularity": 28,
+        "release_year": 1962,
+        "genre": "Jazz"
+    },
+    {
+        "title": "Anarchy in the U.K.",
+        "artist": "Sex Pistols",
+        "duration": 205,
+        "popularity": 28,
+        "release_year": 1976,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Blitzkrieg Bop",
+        "artist": "Ramones",
+        "duration": 144,
+        "popularity": 28,
+        "release_year": 1976,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Holiday in Cambodia",
+        "artist": "Dead Kennedys",
+        "duration": 218,
+        "popularity": 28,
+        "release_year": 1980,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "London Calling",
+        "artist": "The Clash",
+        "duration": 223,
+        "popularity": 28,
+        "release_year": 1979,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Basket Case",
+        "artist": "Green Day",
+        "duration": 186,
+        "popularity": 28,
+        "release_year": 1994,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Smash It Up",
+        "artist": "The Damned",
+        "duration": 209,
+        "popularity": 28,
+        "release_year": 1979,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "I Wanna Be Sedated",
+        "artist": "Ramones",
+        "duration": 139,
+        "popularity": 28,
+        "release_year": 1978,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Rockaway Beach",
+        "artist": "Ramones",
+        "duration": 133,
+        "popularity": 28,
+        "release_year": 1977,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Orgasm Addict",
+        "artist": "Buzzcocks",
+        "duration": 141,
+        "popularity": 28,
+        "release_year": 1977,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Los Angeles",
+        "artist": "X",
+        "duration": 165,
+        "popularity": 28,
+        "release_year": 1980,
+        "genre": "Punk Rock"
+    },
+    {
+        "title": "Iron Man",
+        "artist": "Black Sabbath",
+        "duration": 362,
+        "popularity": 28,
+        "release_year": 1970,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "The Number of the Beast",
+        "artist": "Iron Maiden",
+        "duration": 290,
+        "popularity": 28,
+        "release_year": 1982,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Enter Sandman",
+        "artist": "Metallica",
+        "duration": 331,
+        "popularity": 28,
+        "release_year": 1991,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Crazy Train",
+        "artist": "Ozzy Osbourne",
+        "duration": 289,
+        "popularity": 28,
+        "release_year": 1980,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Painkiller",
+        "artist": "Judas Priest",
+        "duration": 385,
+        "popularity": 28,
+        "release_year": 1990,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Paranoid",
+        "artist": "Black Sabbath",
+        "duration": 169,
+        "popularity": 28,
+        "release_year": 1970,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Run to the Hills",
+        "artist": "Iron Maiden",
+        "duration": 216,
+        "popularity": 28,
+        "release_year": 1982,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Ace of Spades",
+        "artist": "Motörhead",
+        "duration": 144,
+        "popularity": 28,
+        "release_year": 1980,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "The Trooper",
+        "artist": "Iron Maiden",
+        "duration": 238,
+        "popularity": 28,
+        "release_year": 1983,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Take Me to Church",
+        "artist": "Hozier",
+        "duration": 241,
+        "popularity": 28,
+        "release_year": 2013,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Electric Feel",
+        "artist": "MGMT",
+        "duration": 226,
+        "popularity": 28,
+        "release_year": 2007,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Float On",
+        "artist": "Modest Mouse",
+        "duration": 204,
+        "popularity": 28,
+        "release_year": 2004,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Breezeblocks",
+        "artist": "Alt-J",
+        "duration": 213,
+        "popularity": 28,
+        "release_year": 2012,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "duration": 239,
+        "popularity": 28,
+        "release_year": 2010,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Little Talks",
+        "artist": "Of Monsters and Men",
+        "duration": 275,
+        "popularity": 28,
+        "release_year": 2011,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Sedona",
+        "artist": "Houndmouth",
+        "duration": 242,
+        "popularity": 28,
+        "release_year": 2015,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Something Good",
+        "artist": "alt-J",
+        "duration": 203,
+        "popularity": 28,
+        "release_year": 2012,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Anna Sun",
+        "artist": "Walk the Moon",
+        "duration": 231,
+        "popularity": 28,
+        "release_year": 2010,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Home",
+        "artist": "Edward Sharpe & The Magnetic Zeros",
+        "duration": 263,
+        "popularity": 28,
+        "release_year": 2010,
+        "genre": "Indie Rock"
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "duration": 233,
+        "popularity": 29,
+        "release_year": 2017,
+        "genre": "Pop"
+    },
+    {
+        "title": "Blowin' in the Wind",
+        "artist": "Bob Dylan",
+        "duration": 163,
+        "popularity": 28,
+        "release_year": 1962,
+        "genre": "Folk"
+    },
+    {
+        "title": "The Times They Are A-Changin'",
+        "artist": "Bob Dylan",
+        "duration": 180,
+        "popularity": 28,
+        "release_year": 1964,
+        "genre": "Folk"
+    },
+    {
+        "title": "This Land Is Your Land",
+        "artist": "Woody Guthrie",
+        "duration": 180,
+        "popularity": 28,
+        "release_year": 1940,
+        "genre": "Folk"
+    },
+    {
+        "title": "Where Have All the Flowers Gone?",
+        "artist": "Pete Seeger",
+        "duration": 208,
+        "popularity": 28,
+        "release_year": 1955,
+        "genre": "Folk"
+    },
+    {
+        "title": "Scarborough Fair/Canticle",
+        "artist": "Simon & Garfunkel",
+        "duration": 199,
+        "popularity": 28,
+        "release_year": 1966,
+        "genre": "Folk"
+    },
+    {
+        "title": "Leaving on a Jet Plane",
+        "artist": "John Denver",
+        "duration": 207,
+        "popularity": 68,
+        "release_year": 1966,
+        "genre": "Folk"
+    },
+    {
+        "title": "If I Had a Hammer",
+        "artist": "Pete Seeger",
+        "duration": 167,
+        "popularity": 58,
+        "release_year": 1949,
+        "genre": "Folk"
+    },
+    {
+        "title": "Don't Think Twice, It's All Right",
+        "artist": "Bob Dylan",
+        "duration": 225,
+        "popularity": 58,
+        "release_year": 1963,
+        "genre": "Folk"
+    },
+    {
+        "title": "Blowin' in the Wind",
+        "artist": "Bob Dylan",
+        "duration": 163,
+        "popularity": 78,
+        "release_year": 1962,
+        "genre": "Folk"
+    },
+    {
+        "title": "The Night We Met",
+        "artist": "Lord Huron",
+        "duration": 197,
+        "popularity": 78,
+        "release_year": 2015,
+        "genre": "Folk"
+    },
+    {
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "duration": 326,
+        "popularity": 92,
+        "release_year": 2002,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Stan",
+        "artist": "Eminem",
+        "duration": 426,
+        "popularity": 88,
+        "release_year": 2000,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Love the Way You Lie",
+        "artist": "Eminem",
+        "duration": 263,
+        "popularity": 89,
+        "release_year": 2010,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Without Me",
+        "artist": "Eminem",
+        "duration": 296,
+        "popularity": 86,
+        "release_year": 2002,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Mockingbird",
+        "artist": "Eminem",
+        "duration": 251,
+        "popularity": 84,
+        "release_year": 2004,
+        "genre": "Hip-Hop"
+    },
+    {
+        "title": "Story of My Life",
+        "artist": "One Direction",
+        "duration": 248,
+        "popularity": 85,
+        "release_year": 2013,
+        "genre": "Pop"
+    },
+    {
+        "title": "Drag Me Down",
+        "artist": "One Direction",
+        "duration": 191,
+        "popularity": 86,
+        "release_year": 2015,
+        "genre": "Pop"
+    },
+    {
+        "title": "Perfect",
+        "artist": "One Direction",
+        "duration": 214,
+        "popularity": 84,
+        "release_year": 2015,
+        "genre": "Pop"
+    },
+    {
+        "title": "Live While We're Young",
+        "artist": "One Direction",
+        "duration": 202,
+        "popularity": 83,
+        "release_year": 2012,
+        "genre": "Pop"
+    },
+    {
+        "title": "Night Changes",
+        "artist": "One Direction",
+        "duration": 236,
+        "popularity": 82,
+        "release_year": 2014,
+        "genre": "Pop"
+    },
+    {
+        "title": "What Makes You Beautiful",
+        "artist": "One Direction",
+        "duration": 193,
+        "popularity": 87,
+        "release_year": 2011,
+        "genre": "Pop"
+    },
+    {
+        "title": "Love Story",
+        "artist": "Taylor Swift",
+        "duration": 233,
+        "popularity": 88,
+        "release_year": 2008,
+        "genre": "Pop"
+    },
+    {
+        "title": "Shake It Off",
+        "artist": "Taylor Swift",
+        "duration": 219,
+        "popularity": 90,
+        "release_year": 2014,
+        "genre": "Pop"
+    },
+    {
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "duration": 229,
+        "popularity": 89,
+        "release_year": 2014,
+        "genre": "Pop"
+    },
+    {
+        "title": "Bad Blood",
+        "artist": "Taylor Swift",
+        "duration": 213,
+        "popularity": 86,
+        "release_year": 2014,
+        "genre": "Pop"
+    },
+    {
+        "title": "You Belong with Me",
+        "artist": "Taylor Swift",
+        "duration": 230,
+        "popularity": 87,
+        "release_year": 2008,
+        "genre": "Pop"
+    },
+    {
+        "title": "Master of Puppets",
+        "artist": "Metallica",
+        "duration": 517,
+        "popularity": 88,
+        "release_year": 1986,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "One",
+        "artist": "Metallica",
+        "duration": 448,
+        "popularity": 89,
+        "release_year": 1988,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Nothing Else Matters",
+        "artist": "Metallica",
+        "duration": 388,
+        "popularity": 87,
+        "release_year": 1991,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "The Unforgiven",
+        "artist": "Metallica",
+        "duration": 387,
+        "popularity": 86,
+        "release_year": 1991,
+        "genre": "Heavy Metal"
+    },
+    {
+        "title": "Stitches",
+        "artist": "Shawn Mendes",
+        "duration": 207,
+        "popularity": 86,
+        "release_year": 2015,
+        "genre": "Pop"
+    },
+    {
+        "title": "Treat You Better",
+        "artist": "Shawn Mendes",
+        "duration": 187,
+        "popularity": 85,
+        "release_year": 2016,
+        "genre": "Pop"
+    },
+    {
+        "title": "In My Blood",
+        "artist": "Shawn Mendes",
+        "duration": 198,
+        "popularity": 88,
+        "release_year": 2018,
+        "genre": "Pop"
+    },
+    {
+        "title": "There's Nothing Holdin' Me Back",
+        "artist": "Shawn Mendes",
+        "duration": 199,
+        "popularity": 87,
+        "release_year": 2017,
+        "genre": "Pop"
+    },
+    {
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "duration": 216,
+        "popularity": 89,
+        "release_year": 2001,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Numb",
+        "artist": "Linkin Park",
+        "duration": 186,
+        "popularity": 90,
+        "release_year": 2003,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Crawling",
+        "artist": "Linkin Park",
+        "duration": 215,
+        "popularity": 88,
+        "release_year": 2001,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Somewhere I Belong",
+        "artist": "Linkin Park",
+        "duration": 213,
+        "popularity": 85,
+        "release_year": 2003,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Faint",
+        "artist": "Linkin Park",
+        "duration": 156,
+        "popularity": 86,
+        "release_year": 2003,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "duration": 301,
+        "popularity": 90,
+        "release_year": 1991,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Boulevard of Broken Dreams",
+        "artist": "Green Day",
+        "duration": 258,
+        "popularity": 89,
+        "release_year": 2004,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "I Will Follow You into the Dark",
+        "artist": "Death Cab for Cutie",
+        "duration": 194,
+        "popularity": 86,
+        "release_year": 2005,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Radioactive",
+        "artist": "Imagine Dragons",
+        "duration": 187,
+        "popularity": 88,
+        "release_year": 2012,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "The Pretender",
+        "artist": "Foo Fighters",
+        "duration": 267,
+        "popularity": 87,
+        "release_year": 2007,
+        "genre": "Alternative Rock"
+    },
+    {
+        "title": "Sign of the Times",
+        "artist": "Harry Styles",
+        "duration": 340,
+        "popularity": 88,
+        "release_year": 2017,
+        "genre": "Pop"
+    },
+    {
+        "title": "Watermelon Sugar",
+        "artist": "Harry Styles",
+        "duration": 174,
+        "popularity": 90,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Adore You",
+        "artist": "Harry Styles",
+        "duration": 207,
+        "popularity": 89,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Golden",
+        "artist": "Harry Styles",
+        "duration": 207,
+        "popularity": 87,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Falling",
+        "artist": "Harry Styles",
+        "duration": 241,
+        "popularity": 86,
+        "release_year": 2019,
+        "genre": "Pop"
+    },
+    {
+        "title": "Faded",
+        "artist": "Alan Walker",
+        "duration": 212,
+        "popularity": 92,
+        "release_year": 2015,
+        "genre": "Electronic"
+    },
+    {
+        "title": "Alone",
+        "artist": "Alan Walker",
+        "duration": 160,
+        "popularity": 88,
+        "release_year": 2016,
+        "genre": "Electronic"
+    },
+    {
+        "title": "Sing Me to Sleep",
+        "artist": "Alan Walker",
+        "duration": 202,
+        "popularity": 85,
+        "release_year": 2016,
+        "genre": "Electronic"
+    },
+    {
+        "title": "On My Way",
+        "artist": "Alan Walker, Sabrina Carpenter, & Farruko",
+        "duration": 193,
+        "popularity": 87,
+        "release_year": 2019,
+        "genre": "Electronic"
+    },
+    {
+        "title": "Diamond Heart",
+        "artist": "Alan Walker & Sophia Somajo",
+        "duration": 224,
+        "popularity": 84,
+        "release_year": 2018,
+        "genre": "Electronic"
+    }
+]

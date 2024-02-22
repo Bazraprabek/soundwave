@@ -7,7 +7,7 @@ import { setIndex } from "../redux/reducer/currentSong";
 import { Link } from "react-router-dom";
 import { playin } from "../redux/reducer/playing";
 
-function Card({ title, image, artist, path }) {
+function Card({ title, image, artist, path, score }) {
   const dispatch = useDispatch();
   const handlePlay = () => {
     dispatch(playing());

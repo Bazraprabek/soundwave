@@ -9,7 +9,6 @@ const userRouter = require("./routers/userRouter");
 const productRouter = require("./routers/productRouter");
 
 app.use("/public", express.static("public"));
-// app.use("/public", express.static(__dirname + "/public"));
 app.use(express.json());
 app.use(cookieParser());
 app.use(

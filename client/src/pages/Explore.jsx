@@ -35,7 +35,7 @@ const Explore = () => {
               <h6 className="text-muted">{value.artist}</h6>
               <h6 className="text-muted">{value.genre}</h6>
               <h6 className="text-muted">{value.duration} seconds</h6>
-              <h6 className="text-muted">{value.popularity} views</h6>
+              <h6 className="text-muted">{value.popularity} rating</h6>
             </Link>
           );
         })}

@@ -13,11 +13,12 @@ const { recommendation } = require("../controllers/recommend");
 const { popular, related } = require("../controllers/popular");
 const { Protected } = require("../middlewares/auth");
 const {
-  explore,
   uploadSong,
   fetchSong,
   fetchSongById,
-} = require("../controllers/knnExplore");
+  fetchApi,
+} = require("../controllers/explore");
+const { explore } = require("../controllers/knn");
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -42,6 +43,7 @@ router.route("/explore").post(explore);
 router.route("/explore/upload").get(uploadSong);
 router.route("/explore/fetch").get(fetchSong);
 router.route("/explore/get/:id").get(fetchSongById);
+router.route("/fetchapi").get(fetchApi);
 router.route("/:id").get(getProduct);
 // router.route("/create").post(upload.single("song"), createProduct);
 router.route("/create").post(

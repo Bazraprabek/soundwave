@@ -84,6 +84,7 @@ function Home() {
                   image={value.item.image}
                   key={index}
                   index={index}
+                  score={value.score}
                 />
               );
             })

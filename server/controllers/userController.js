@@ -56,7 +56,6 @@ const userLogin = async (req, res) => {
 const userSignup = async (req, res) => {
   try {
     const { name, email, password, role, country } = req.body;
-    console.log(req.body);
     if (name && email && password && role && country) {
       const verifyEmail = await User.findOne({ email });
       if (verifyEmail) {
