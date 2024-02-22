@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import axios from "axios";
 import { useSelector } from "react-redux";
+import { axiosInstance } from "../utils/axois";
 
 const Admin_Item = () => {
   const [data, setData] = useState([]);
@@ -10,12 +10,8 @@ const Admin_Item = () => {
   useEffect(() => {
     const getData = async () => {
       try {
-        const res = await axios.get(
-          `http://localhost:5000/api/product/fetch/${index.payload.email}`,
-          {
-            headers: { "Content-Type": "application/json" },
-            withCredentials: true,
-          }
+        const res = await axiosInstance.get(
+          `/api/product/fetch/${index.payload.email}`
         );
         if (res) {
           setData(res.data);

@@ -8,7 +8,7 @@ const productSchema = new mongoose.Schema({
   artist: { type: String, required: true, trim: true },
   // featured_artist: { type: Array, unique: true },
   country: { type: String, required: true },
-  love: { type: Number, default: 0 },
+  love: { type: Number, default: 1 },
   year: { type: Number, default: new Date().getFullYear() },
   uploaded_by: { type: String, required: true, trim: true },
   uploaded_at: { type: Date, default: Date.now() },

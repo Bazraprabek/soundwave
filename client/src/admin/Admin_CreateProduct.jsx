@@ -1,10 +1,10 @@
-import axios from "axios";
 import React from "react";
 import { useState } from "react";
 import { useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import countryList from "../components/country";
 import genreList from "../components/genres";
+import { axiosInstance } from "../utils/axois";
 
 const CreateProduct = () => {
   const navigate = useNavigate();
@@ -57,10 +57,7 @@ const CreateProduct = () => {
       formData.append("uploaded_by", index.payload.email);
       if (data.title && data.artist && data.genres && data.song && data.image) {
         setLoading(true);
-        const res = await axios.post(
-          "http://localhost:5000/api/product/create",
-          formData
-        );
+        const res = await axiosInstance.post("/api/product/create", formData);
         if (res) {
           setLoading(false);
           alert(res.data.msg);
@@ -168,6 +165,7 @@ const CreateProduct = () => {
           id="song"
           placeholder=""
           onChange={handlesong}
+          accept=".mp3, .wav"
         />
         <br />
         {loading ? (

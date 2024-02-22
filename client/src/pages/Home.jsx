@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Card from "../components/Card";
-import axios from "axios";
 import CardSkeleton from "../components/CardSkeleton";
+import { axiosInstance } from "../utils/axois";
 // import songs from "../components/songs";
 function Home() {
   const [songs, setSongs] = useState([]);
@@ -12,21 +12,12 @@ function Home() {
     const getData = async () => {
       isLoading(true);
 
-      const res = await axios.get("http://localhost:5000/api/product/popular", {
-        headers: { "Content-Type": "application/json" },
-        withCredentials: true,
-      });
+      const res = await axiosInstance.get("/api/product/popular");
       setSongs(res.data);
       isLoading(false);
     };
     const getRecommed = async () => {
-      const res = await axios.get(
-        "http://localhost:5000/api/product/recommend",
-        {
-          headers: { "Content-Type": "application/json" },
-          withCredentials: true,
-        }
-      );
+      const res = await axiosInstance.get("/api/product/recommend");
       setRecommend(res.data);
     };
     getData();
@@ -47,7 +38,7 @@ function Home() {
               <CardSkeleton />
               <CardSkeleton />
             </>
-          ) : (
+          ) : songs.length > 0 ? (
             songs.slice(0, 5).map((value, index) => {
               return (
                 <Card
@@ -60,6 +51,8 @@ function Home() {
                 />
               );
             })
+          ) : (
+            "No Songs Available"
           )}
         </div>
       </div>
@@ -74,7 +67,7 @@ function Home() {
               <CardSkeleton />
               <CardSkeleton />
             </>
-          ) : (
+          ) : recommend.length > 0 ? (
             recommend.map((value, index) => {
               return (
                 <Card
@@ -88,6 +81,8 @@ function Home() {
                 />
               );
             })
+          ) : (
+            "No Recommend Songs"
           )}
         </div>
       </div>

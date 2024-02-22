@@ -1,21 +1,23 @@
 import React, { useEffect } from "react";
-import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-function Logout() {
+const Logout = () => {
   const navigate = useNavigate();
+
+  const token = JSON.parse(localStorage.getItem("token"));
+
   useEffect(() => {
-    async function fetchData() {
-      await axios.get("http://localhost:5000/api/user/logout", {
-        headers: { "Content-Type": "application/json" },
-        withCredentials: true,
-      });
+    if (token) {
+      localStorage.removeItem("token");
+      navigate("/login");
+      window.location.reload();
+    } else {
+      navigate("/login");
+      window.location.reload();
     }
-    fetchData();
-    navigate("/login");
-    window.location.reload();
-  });
-  return <div></div>;
-}
+  }, []);
+
+  return null;
+};
 
 export default Logout;

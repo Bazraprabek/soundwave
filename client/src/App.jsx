@@ -8,7 +8,6 @@ import Library from "./pages/Library";
 import Search from "./pages/Search";
 import UserLayout from "./pages/UserLayout";
 import { useEffect, useState } from "react";
-import axios from "axios";
 import CreateProduct from "./admin/Admin_CreateProduct";
 import { useDispatch } from "react-redux";
 import { setUserData } from "./redux/reducer/userData";
@@ -21,6 +20,7 @@ import Song from "./pages/Song";
 import Item_Manage from "./admin/Item_Update";
 import Explore from "./pages/Explore";
 import ExploreSong from "./pages/ExploreSong";
+import { axiosInstance } from "./utils/axois";
 // import Loading from "./components/Loading";
 
 const App = () => {
@@ -28,14 +28,12 @@ const App = () => {
   const [loading, setLoading] = useState(true);
   const [auth, setAuth] = useState(false);
   const [data, setData] = useState({});
+  const [loggedIn, setloggedIn] = useState(false);
 
   useEffect(() => {
     const getData = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/user/", {
-          headers: { "Content-Type": "application/json" },
-          withCredentials: true,
-        });
+        const res = await axiosInstance.get("/api/user/");
         if (res) {
           setLoading(false);
           setAuth(true);
@@ -49,7 +47,7 @@ const App = () => {
       }
     };
     getData();
-  }, []);
+  }, [loggedIn]);
 
   if (loading) {
     // return <Loading />;
@@ -96,7 +94,10 @@ const App = () => {
       return (
         <>
           <Routes>
-            <Route path="/login" element={<Login />} />
+            <Route
+              path="/login"
+              element={<Login setloggedIn={setloggedIn} />}
+            />
             <Route path="/signup" element={<Signup />} />
             <Route path="/*" element={<Navigate to="/login" />} />
           </Routes>

@@ -4,7 +4,6 @@ const {
   userSignup,
   getData,
   fetchData,
-  userLogout,
   userDelete,
   userDeleteByID,
   adduserReview,
@@ -17,7 +16,6 @@ router.route("/").get(Protected, getData);
 router.route("/fetch").get(fetchData);
 router.route("/login").post(userLogin);
 router.route("/signup").post(userSignup);
-router.route("/logout").get(userLogout);
 router.route("/delete").get(userDelete);
 router.route("/delete/:id").get(userDeleteByID);
 router.route("/review/add").post(Protected, adduserReview);

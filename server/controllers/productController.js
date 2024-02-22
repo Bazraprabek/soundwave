@@ -47,6 +47,7 @@ const getProduct = async (req, res) => {
 const createProduct = async (req, res) => {
   try {
     const { title, genres, artist, year, uploaded_by, country } = req.body;
+    console.log("Files:", req.files);
     const song = req.files["song"][0].filename;
     const image = req.files["image"][0].filename;
     if (title && genres && artist && year && uploaded_by) {

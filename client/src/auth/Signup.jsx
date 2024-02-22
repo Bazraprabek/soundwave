@@ -1,7 +1,7 @@
-import axios from "axios";
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import countryList from "../components/country";
+import { axiosInstance } from "../utils/axois";
 
 function Signup() {
   const navigate = useNavigate();
@@ -29,16 +29,13 @@ function Signup() {
       console.log(formData);
       if (name && email && password && role) {
         if (password === cpassword) {
-          const res = await axios.post(
-            "http://localhost:5000/api/user/signup",
-            {
-              name,
-              email,
-              role,
-              country,
-              password,
-            }
-          );
+          const res = await axiosInstance.post("/api/user/signup", {
+            name,
+            email,
+            role,
+            country,
+            password,
+          });
           if (res.data.status === "success") {
             alert(res.data.msg);
             navigate("/login");

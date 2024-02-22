@@ -1,9 +1,11 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import axios from "axios";
+import { axiosInstance } from "../utils/axois";
 
-function Login() {
+function Login({ setloggedIn }) {
   const navigate = useNavigate();
+
+  const [loading, setLoading] = useState(false);
 
   const [formData, setData] = useState({
     email: "",
@@ -23,21 +25,17 @@ function Login() {
       e.preventDefault();
       const { email, password } = formData;
       if (email && password) {
-        const res = await axios.post(
-          "http://localhost:5000/api/user/login",
-          {
-            email,
-            password,
-          },
-          {
-            headers: { "Content-Type": "application/json" },
-            withCredentials: true,
-          }
-        );
-        console.log(res.data.msg);
+        setLoading(true);
+        const res = await axiosInstance.post("/api/user/login", {
+          email,
+          password,
+        });
+        setLoading(false);
+        console.log(res.data);
         if (res.data.status === "success") {
+          localStorage.setItem("token", JSON.stringify(res.data.accessToken));
+          setloggedIn(true);
           navigate("/");
-          window.location.reload();
         } else {
           alert(res.data.msg);
         }
@@ -46,6 +44,7 @@ function Login() {
       }
     } catch (err) {
       console.log(err);
+      setLoading(false);
       alert("Login Fail");
     }
   };
@@ -85,9 +84,15 @@ function Login() {
             />
           </div>
           <div className="mb-4 text-center">
-            <button className="form-control" type="submit">
-              LOG IN
-            </button>
+            {loading ? (
+              <button className="form-control" type="submit" disabled>
+                LOADING...
+              </button>
+            ) : (
+              <button className="form-control" type="submit">
+                LOG IN
+              </button>
+            )}
           </div>
           <hr />
           <div className="py-4 text-center">

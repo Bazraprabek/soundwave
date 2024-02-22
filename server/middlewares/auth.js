@@ -1,19 +1,19 @@
 const jwt = require("jsonwebtoken");
 
-const Protected = async (req, res, next) => {
-  try {
-    const token = req.cookies.token;
-    const verify = jwt.verify(token, process.env.SECRET_KEY);
-    if (verify) {
-      req.verifyUserId = verify.id;
-      next();
-    } else {
-      throw new Error("Unauthorized User");
-    }
-  } catch (err) {
-    res.status(401).send({ msg: "Unauthorized User" });
-    console.log(err);
-  }
-};
+const Protected = (req, res, next) => {
+  const token = req.header("Authorization");
 
+  if (!token) {
+    return res.status(401).send("Access token is required");
+  }
+
+  jwt.verify(token.split(" ")[1], process.env.SECRET_KEY, (err, user) => {
+    if (err) {
+      return res.status(403).json({ message: "Invalid access token" });
+    }
+    req.verifyUserId = user.id;
+    req.user = user;
+    next();
+  });
+};
 module.exports = { Protected };

@@ -1,4 +1,3 @@
-import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -14,6 +13,7 @@ import Card from "../components/Card";
 import { playin } from "../redux/reducer/playing";
 import { Skeleton } from "@mui/material";
 import CardSkeleton from "../components/CardSkeleton";
+import { axiosInstance } from "../utils/axois";
 
 function Song() {
   const dispatch = useDispatch();
@@ -34,31 +34,15 @@ function Song() {
   const handleLove = async () => {
     try {
       if (love) {
-        const res = await axios.post(
-          "http://localhost:5000/api/user/review/remove",
-          {
-            data,
-          },
-          {
-            headers: { "Content-Type": "application/json" },
-            withCredentials: true,
-          }
-        );
+        const res = await axiosInstance.post("/api/user/review/remove", {
+          data,
+        });
         if (res) {
           setLove(false);
           window.location.reload();
         }
       } else {
-        const res = await axios.post(
-          "http://localhost:5000/api/user/review/add",
-          {
-            data,
-          },
-          {
-            headers: { "Content-Type": "application/json" },
-            withCredentials: true,
-          }
-        );
+        const res = await axiosInstance.post("/api/user/review/add", { data });
         if (res) {
           setLove(true);
           window.location.reload();
@@ -83,9 +67,7 @@ function Song() {
     const getData = async () => {
       try {
         isLoading(true);
-        const res = await axios.get(
-          `http://localhost:5000/api/product/get/${id}`
-        );
+        const res = await axiosInstance.get(`/api/product/get/${id}`);
         if (res.status === 200) {
           isLoading(false);
           setData(res.data);
@@ -99,16 +81,9 @@ function Song() {
     };
     const getRelatedData = async () => {
       try {
-        const res = await axios.post(
-          "http://localhost:5000/api/product/related",
-          {
-            id,
-          },
-          {
-            headers: { "Content-Type": "application/json" },
-            withCredentials: true,
-          }
-        );
+        const res = await axiosInstance.post("/api/product/related", {
+          id,
+        });
         setSongs(res.data);
       } catch (err) {
         console.log(err);
